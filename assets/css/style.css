@@ -694,7 +694,7 @@ section {
 }
 .about .video-box {
   background-size: cover;
-  min-height: 500px;
+  
   background: url("../img/team.jpg") top center;
   background-size: cover;
   margin-bottom: -300px;
